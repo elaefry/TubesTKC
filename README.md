@@ -28,6 +28,10 @@ Berikut tabel hasil evaluasi model dan presisi, recall, f1-score terbaik :
 
 <img width="481" alt="c" src="https://user-images.githubusercontent.com/64589800/147537050-5cca4033-77ba-4240-97de-dc4fe91937a6.png">
 
+Berikut plot val_accuracy dan val_loss model ResNet50 :
+
+![1](https://user-images.githubusercontent.com/64589800/147537588-1ca27e21-0eff-49f8-a01c-4e4b183c14ae.png) ![2](https://user-images.githubusercontent.com/64589800/147537610-3bceab9e-6329-4055-a28a-f2aa6ed62df0.png)
+
 ## Image Retrieval
 Kemiripan query gambar dengan dataset dihitung dengan similarity gambar setelah ekstraksi fitur menggunakan model convolutional neural network. Berikut merupakan contoh output similarity image pada query gambar ISIC_0033367.jpg dengan 12 gambar kemiripan teratas :
 
