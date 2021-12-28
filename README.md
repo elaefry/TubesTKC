@@ -16,7 +16,7 @@ Berikut merupakan tampilan dataset ISIC 2018 :
 ![d](https://user-images.githubusercontent.com/64589800/147536091-c66bb788-fe3d-44b0-98d0-ba24a04317e2.png)
 
 ## Preprocessing
-Tahap pertama preprocessing yakni melakukan resampling dengan metode Random Over Sampler karena dataset yang digunakan merupakan imbalance dataset sehingga jumlah gambar per-kelasnya tidak sama atau tidak seimbang.
+Tahap pertama preprocessing yakni melakukan resampling dengan metode Random Over Sampler karena dataset yang digunakan merupakan imbalance dataset sehingga jumlah gambar per-kelasnya tidak sama atau tidak seimbang. Random Over Sampler mengisi jumlah data gambar perkelas dengan total gambar tertinggi yang ada pada kelas tersebut.
 
 Berikut merupakan plot sebelum dan setelah dilakukan resampling :
 
