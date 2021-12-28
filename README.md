@@ -1,5 +1,5 @@
 # TubesTKC
-### Aaliyah Lusianti
+### Ela Efriyanti 201810370311066 - Aaliyah Lusianti 201810370311074
 
 ## Overview Jurnal Referensi
 Jurnal yang digunakan sebagai rujukan berjudul <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482521006193">Skin lesion image retrieval using transfer learning-based approach for query-driven distance recommendation</a> bertema Content-based Image Retrieval. Dalam jurnal tersebut, dataset yang digunakan yaitu International Skin Imaging Collaboration (ISIC) 2018 dan 2019. Dataset terdiri dari 7 kelas penyakit kanker kulit diantaranya Melanoma (MEL), Melanocytic nevus (NV), Basal cell carcinoma (BCC), Keratinocytic tumors (AKIEC), Benign keratosis (BKL), Dermatofibroma (DF), dan Vascular lesions (VASC). Feature Extraction yang diterapkan pada jurnal yaitu convoolutional neural network (CNN) dengan model ResNet50. Hasil evaluasi model yang didapatkan antara lain rata-rata presisi, recall dan f1-score dengan nilai 97% Pada dataset ISIC 2018. Sedangkan pada ISIC 2019 menghasilkan nilai rata-rata presisi 76%, recall 70% dan f1-score 72%.
