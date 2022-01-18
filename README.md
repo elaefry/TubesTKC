@@ -36,5 +36,6 @@ Berikut plot val_accuracy dan val_loss model ResNet50 :
 ## Image Retrieval
 Kemiripan query gambar dengan dataset dihitung dengan similarity gambar setelah ekstraksi fitur menggunakan model convolutional neural network. Berikut merupakan contoh output similarity image pada query gambar ISIC_0033367.jpg dengan 12 gambar kemiripan teratas :
 
-![b](https://user-images.githubusercontent.com/64589800/147537365-18dd9b48-32b7-4f1c-b90b-f596ab3040df.png)
+![cbir-resnet50](https://user-images.githubusercontent.com/64589800/149963622-123c360f-807d-46cc-ad97-e61c84192323.png)
+
 
