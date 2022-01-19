@@ -38,4 +38,8 @@ Kemiripan query gambar dengan dataset dihitung dengan similarity gambar setelah 
 
 ![cbir-resnet50](https://user-images.githubusercontent.com/64589800/149963622-123c360f-807d-46cc-ad97-e61c84192323.png)
 
+## Hasil Running Aplikasi
+<img width="960" alt="Hal1" src="https://user-images.githubusercontent.com/64589800/150060840-e4896a2e-2d3e-44dc-af6e-62690c6f23eb.png">
+
+<img width="960" alt="Hal2" src="https://user-images.githubusercontent.com/64589800/150060881-b81ff4d7-2819-447a-82fd-df9401736d60.png">
 
