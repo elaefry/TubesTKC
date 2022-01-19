@@ -1,0 +1,2 @@
+Link Dataset : https://drive.google.com/file/d/1JkBJImuiAOZAQ1WSVfxM216FBaasGysm/view?usp=sharing
+Link Kaggle : https://www.kaggle.com/grassknoted/asl-alphabet
